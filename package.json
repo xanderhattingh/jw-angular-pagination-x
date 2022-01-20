@@ -1,0 +1,21 @@
+{
+  "name": "jw-pagination",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/jw-pagination.umd.js",
+  "module": "fesm5/jw-pagination.js",
+  "es2015": "fesm2015/jw-pagination.js",
+  "esm5": "esm5/jw-pagination.js",
+  "esm2015": "esm2015/jw-pagination.js",
+  "fesm5": "fesm5/jw-pagination.js",
+  "fesm2015": "fesm2015/jw-pagination.js",
+  "typings": "jw-pagination.d.ts",
+  "metadata": "jw-pagination.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
